@@ -128,7 +128,7 @@ Students are required to:
   ## Deliverables
   ### 1st Deliverable:
     Implement the described functional requirements in the backend:
-    * FR3: Add, edit and remove products to a new order.
+    * FR4: Confirm a new order (dismissing orders is a functional requirement only for frontend). 
     * FR5: Listing my confirmed orders.
     * FR8: Edit/delete order.
 
@@ -136,15 +136,13 @@ Students are required to:
   
   ### 2nd Deliverable:
   Implement the described functional requirements in the `customer` frontend application:
-    * FR1: Restaurants listing.  
-    * FR7: Show top 3 products.    
+    * FR1: Restaurants listing.
     * FR2: Restaurants details and menu.    
-    * FR5: Listing my confirmed orders.    
-    * FR6: Show order details.    
     * FR3: Add, edit and remove products to a new order.
       * Keep in mind **FR4: Confirm or dismiss new order.** You have to allow user to confirm or dismiss the order before sending it to the backend.
-  ### 3rd Deliverable:
-  Implement the described functional requirements in the `customer` frontend application:
+    * FR5: Listing my confirmed orders.    
+    * FR6: Show order details.    
+    * FR7: Show top 3 products.
+ 
+  Once these requirements have been developed, you can proceed to implement:
     * FR8: Edit/delete order
-
-
